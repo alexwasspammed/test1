@@ -84,6 +84,6 @@ Litecoin
 -------
 DOS prompt:
 
-	cd \dogecoin\src
+	cd \test1coin\src
 	mingw32-make -f makefile.mingw
-	strip dogecoind.exe
+	strip test1coind.exe

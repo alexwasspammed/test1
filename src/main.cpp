@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
 // Copyright (c) 2011-2014 Litecoin Developers
-// Copyright (c) 2013-2014 Dogecoin Developers
+// Copyright (c) 2013-2014 Test1Coin Developers
 // Contributions by /u/lleti, rog1121, and DigiByte (DigiShield Developers).
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -37,7 +37,7 @@ unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
 uint256 hashGenesisBlock("0x1a91e3dace36e2be3bf030a65679fe821aa1d6ef92e7c9902eb318182c355691");
-static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Dogecoin: starting difficulty is 1 / 2^12
+static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Test1Coin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 uint256 nBestChainWork = 0;
@@ -69,7 +69,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Dogecoin Signed Message:\n";
+const string strMessageMagic = "Test1Coin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -360,7 +360,7 @@ unsigned int LimitOrphanTxSize(unsigned int nMaxOrphans)
 
 bool CTxOut::IsDust() const
 {
-    // Dogecoin: IsDust() detection disabled, allows any valid dust to be relayed.
+    // Test1Coin: IsDust() detection disabled, allows any valid dust to be relayed.
     // The fees imposed on each dust txo is considered sufficient spam deterrant. 
     return false;
 }
@@ -632,7 +632,7 @@ int64 CTransaction::GetMinFee(unsigned int nBlockSize, bool fAllowFree,
 #endif
     }
 
-    // Dogecoin
+    // Test1Coin
     // To limit dust spam, add nBaseFee for each output less than DUST_SOFT_LIMIT
     BOOST_FOREACH(const CTxOut& txout, vout)
         if (txout.nValue < DUST_SOFT_LIMIT)
@@ -1102,7 +1102,7 @@ static const int64 nDiffChangeTarget = 145000; // Patch effective @ block 145000
 
 int64 static GetBlockValue(int nHeight, int64 nFees, uint256 prevHash)
 {
-    int64 nSubsidy = 500000 * COIN;
+    int64 nSubsidy = 5 * COIN;
 
     std::string cseed_str = prevHash.ToString().substr(7,7);
     const char* cseed = cseed_str.c_str();
@@ -1112,7 +1112,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees, uint256 prevHash)
 
     if(nHeight < 100000)
     {
-        nSubsidy = (1 + rand) * COIN;
+        nSubsidy = 50000 * COIN;
     }
     else if(nHeight < 145000)
     {
@@ -1134,9 +1134,14 @@ int64 static GetBlockValue(int nHeight, int64 nFees, uint256 prevHash)
     return nSubsidy + nFees;
 }
 
+// ***
+// TEST  (How *should* blocks be found and how often difficulty retargets)
+// ***
+// we want our coin to produce 1 coin blocks every 1 minute (nTargetSpacing) and readjust difficulty every minute (nTargetTimespanNEW). 
+// ***
 static const int64 nTargetTimespan = 4 * 60 * 60; // old retarget (4hrs)
-static const int64 nTargetTimespanNEW = 60 ; // DogeCoin: every 1 minute
-static const int64 nTargetSpacing = 60; // DogeCoin: 1 minutes
+static const int64 nTargetTimespanNEW = 60 ; // Test1Coin: every 1 minute 
+static const int64 nTargetSpacing = 60; // Test1Coin: 1 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
@@ -1216,7 +1221,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
         return pindexLast->nBits;
     }
 
-    // Dogecoin: This fixes an issue where a 51% attack can change difficulty at will.
+    // Test1Coin: This fixes an issue where a 51% attack can change difficulty at will.
     // Go back the full period unless it's the first retarget after genesis. Code courtesy of Art Forz
     int blockstogoback = retargetInterval-1;
     if ((pindexLast->nHeight+1) != retargetInterval)
@@ -2341,7 +2346,7 @@ bool CBlock::AcceptBlock(CValidationState &state, CDiskBlockPos *dbp)
 
 bool CBlockIndex::IsSuperMajority(int minVersion, const CBlockIndex* pstart, unsigned int nRequired, unsigned int nToCheck)
 {
-    // Dogecoin: temporarily disable v2 block lockin until we are ready for v2 transition
+    // Test1Coin: temporarily disable v2 block lockin until we are ready for v2 transition
     return false;
     unsigned int nFound = 0;
     for (unsigned int i = 0; i < nToCheck && nFound < nRequired && pstart != NULL; i++)
@@ -2859,7 +2864,7 @@ bool InitBlockIndex() {
         //  vMerkleTree: 5b2a3f53f605d62c53e62932dac6925e3d74afa5a4b459745c36d42d0ed26a69 
 
         // Genesis block
-        const char* pszTimestamp = "Nintondo";
+        const char* pszTimestamp = "so much testing";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2871,13 +2876,13 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1386325540;
+        block.nTime    = 1397829429; // *** today
         block.nBits    = 0x1e0ffff0;
         block.nNonce   = 99943;
 
         if (fTestNet)
         {
-            block.nTime    = 1391503289;
+            block.nTime    = 1397829429;
             block.nNonce   = 997879;
         }
 
@@ -4647,7 +4652,7 @@ void static DogecoinMiner(CWallet *pwallet)
 {
     printf("DogecoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("dogecoin-miner");
+    RenameThread("test1coin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);

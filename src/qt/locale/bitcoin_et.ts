@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogecoin</source>
+        <source>About Test1Coin</source>
         <translation>Dogecoinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogecoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Test1Coin&lt;/b&gt; version</source>
         <translation>&lt;b&gt;Dogecoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
@@ -44,7 +44,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>2013-%1 The Dogecoin developers</source>
+        <source>2013-%1 The Test1Coin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -77,7 +77,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dogecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Test1Coin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Maksete saamiseks kasutatavad Dogecoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
@@ -92,7 +92,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogecoin address</source>
+        <source>Sign a message to prove you own a Test1Coin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -117,7 +117,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dogecoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Test1Coin address</source>
         <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Dogecoini aadressiga.</translation>
     </message>
     <message>
@@ -132,7 +132,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Test1Coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Need on sinu Dogecoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
@@ -258,8 +258,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA DOGECOINID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TEST1COINS&lt;/b&gt;!</source>
+        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA TEST1COINID&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -285,8 +285,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista dogecoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>Test1Coin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your test1coins from being stolen by malware infecting your computer.</source>
+        <translation>Test1Coin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista test1coinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -384,7 +384,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogecoin</source>
+        <source>Show information about Test1Coin</source>
         <translation>Kuva info Dogecoini kohta</translation>
     </message>
     <message>
@@ -429,12 +429,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a Test1Coin address</source>
         <translation>Saada münte Dogecoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dogecoin</source>
+        <source>Modify configuration options for Test1Coin</source>
         <translation>Muuda Dogecoini seadeid</translation>
     </message>
     <message>
@@ -465,8 +465,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>Test1Coin</source>
+        <translation>Test1Coin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -490,7 +490,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dogecoin</source>
+        <source>&amp;About Test1Coin</source>
         <translation>%Dogecoinist</translation>
     </message>
     <message>
@@ -510,12 +510,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your Test1Coin addresses to prove you own them</source>
         <translation>Omandi tõestamiseks allkirjasta sõnumid oma Dogecoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Test1Coin addresses</source>
         <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Dogecoini aadressiga</translation>
     </message>
     <message>
@@ -546,12 +546,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Dogecoin client</source>
+        <source>Test1Coin client</source>
         <translation>Dogecoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dogecoin network</source>
+        <source>%n active connection(s) to Test1Coin network</source>
         <translation><numerusform>%n aktiivne ühendus Dogecoini võrku</numerusform><numerusform>%n aktiivset ühendust Dogecoini võrku</numerusform></translation>
     </message>
     <message>
@@ -665,7 +665,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Test1Coin address or malformed URI parameters.</source>
         <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Dogecoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
@@ -680,8 +680,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Dogecoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. Test1Coin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. Test1Coin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Test1Coin address.</source>
         <translation>Sisestatud aadress &quot;%1&quot; ei ole Dogecoinis kehtiv.</translation>
     </message>
     <message>
@@ -765,7 +765,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dogecoin-Qt</source>
+        <source>Test1Coin-Qt</source>
         <translation>Dogecoini-Qt</translation>
     </message>
     <message>
@@ -828,13 +828,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogecoin after logging in to the system.</source>
-        <translation>Käivita Dogecoin süsteemi logimisel.</translation>
+        <source>Automatically start Test1Coin after logging in to the system.</source>
+        <translation>Käivita Test1Coin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogecoin on system login</source>
-        <translation>&amp;Start Dogecoin sisselogimisel</translation>
+        <source>&amp;Start Test1Coin on system login</source>
+        <translation>&amp;Start Test1Coin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -853,7 +853,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Test1Coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Dogecoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
@@ -863,7 +863,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Test1Coin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Kasuta Dogecoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
@@ -938,7 +938,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Test1Coin.</source>
         <translation>Kasutajaliidese keele valimise koht. Valik rakendub Dogecoini käivitamisel.</translation>
     </message>
     <message>
@@ -953,7 +953,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
+        <source>Whether to show Test1Coin addresses in the transaction list or not.</source>
         <translation>Kuvada Dogecoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
@@ -1005,7 +1005,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogecoin.</source>
+        <source>This setting will take effect after restarting Test1Coin.</source>
         <translation>Tehtud valik rakendub Dogecoini käivitamisel.</translation>
     </message>
     <message>
@@ -1024,7 +1024,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Test1Coin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1078,8 +1078,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Dogecoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start test1coin: click-to-pay handler</source>
+        <translation>Test1Coin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1228,7 +1228,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogecoin-Qt help message to get a list with possible Dogecoin command-line options.</source>
+        <source>Show the Test1Coin-Qt help message to get a list with possible Test1Coin command-line options.</source>
         <translation>Näita kehtivate käsurea valikute kuvamiseks Dogecoini-Qt abiteksti</translation>
     </message>
     <message>
@@ -1248,12 +1248,12 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogecoin - Debug window</source>
-        <translation>Dogecoin - debugimise aken</translation>
+        <source>Test1Coin - Debug window</source>
+        <translation>Test1Coin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogecoin Core</source>
+        <source>Test1Coin Core</source>
         <translation>Dogecoini tuumik</translation>
     </message>
     <message>
@@ -1263,7 +1263,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Test1Coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Ava Dogecoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
@@ -1273,7 +1273,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dogecoin RPC console.</source>
+        <source>Welcome to the Test1Coin RPC console.</source>
         <translation>Teretulemast Dogecoini RPC konsooli.</translation>
     </message>
     <message>
@@ -1328,8 +1328,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 DOGE</source>
-        <translation>123,456 DOGE</translation>
+        <source>123.456 TEST1</source>
+        <translation>123,456 TEST1</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1457,7 +1457,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a Test1Coin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>Sisesta Dogecoini aadress (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
@@ -1522,7 +1522,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this Test1Coin address</source>
         <translation>Allkirjasta sõnum Dogecoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
@@ -1558,7 +1558,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Test1Coin address</source>
         <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Dogecoini aadressiga.</translation>
     </message>
     <message>
@@ -1574,7 +1574,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a Test1Coin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>Sisesta Dogecoini aadress (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
@@ -1584,7 +1584,7 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogecoin signature</source>
+        <source>Enter Test1Coin signature</source>
         <translation>Sisesta Dogecoini allkiri</translation>
     </message>
     <message>
@@ -1658,7 +1658,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dogecoin developers</source>
+        <source>The Test1Coin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2196,7 +2196,7 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Dogecoin version</source>
+        <source>Test1Coin version</source>
         <translation>Dogecoini versioon</translation>
     </message>
     <message>
@@ -2206,8 +2206,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dogecoind</source>
-        <translation>Saada käsklus -serverile või dogecoindile</translation>
+        <source>Send command to -server or test1coind</source>
+        <translation>Saada käsklus -serverile või test1coindile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2226,13 +2226,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: test1coin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: test1coin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: dogecoin.pid)</translation>
+        <source>Specify pid file (default: test1coind.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: test1coin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2246,8 +2246,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22556 or testnet: 44556)</source>
-        <translation>Kuula ühendusi pordil &lt;port&gt; (vaikeväärtus: 22556 või testnet: 44556)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 26004 or testnet: 44556)</source>
+        <translation>Kuula ühendusi pordil &lt;port&gt; (vaikeväärtus: 26004 või testnet: 44556)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2281,8 +2281,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22555 or testnet: 44555)</source>
-        <translation>Kuula JSON-RPC ühendusel seda porti &lt;port&gt; (vaikeväärtus: 22555 või testnet: 44555)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 26003 or testnet: 44555)</source>
+        <translation>Kuula JSON-RPC ühendusel seda porti &lt;port&gt; (vaikeväärtus: 26003 või testnet: 44555)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2309,24 +2309,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=test1coinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Test1Coin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=dogecoinrpc
+rpcuser=test1coinrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;Test1Coin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2341,8 +2341,8 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Dogecoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. Test1Coin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Test1Coin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2386,8 +2386,8 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Dogecoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Test1Coin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Test1Coin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2636,8 +2636,8 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dogecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Dogecoin Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the Test1Coin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata Test1Coin Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2826,13 +2826,13 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Test1Coin</source>
         <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Dogecoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Dogecoin</translation>
+        <source>Wallet needed to be rewritten: restart Test1Coin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Test1Coin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2891,8 +2891,8 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dogecoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Dogecoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. Test1Coin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Test1Coin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

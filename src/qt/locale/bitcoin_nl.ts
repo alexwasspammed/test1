@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogecoin</source>
-        <translation>Over Dogecoin</translation>
+        <source>About Test1Coin</source>
+        <translation>Over Test1Coin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Test1Coin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Test1Coin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -44,8 +44,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>2013-%1 The Dogecoin developers</source>
-        <translation>2013-%1 De Dogecoin-ontwikkelaars</translation>
+        <source>2013-%1 The Test1Coin developers</source>
+        <translation>2013-%1 De Test1Coin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -77,7 +77,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dogecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Test1Coin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dit zijn uw Dogecoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
@@ -92,7 +92,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogecoin address</source>
+        <source>Sign a message to prove you own a Test1Coin address</source>
         <translation>Onderteken een bericht om te bewijzen dat u een bepaald Dogecoinadres bezit</translation>
     </message>
     <message>
@@ -117,7 +117,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dogecoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Test1Coin address</source>
         <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Dogecoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
@@ -132,8 +132,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Dogecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw dogecoins verzendt.</translation>
+        <source>These are your Test1Coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Dogecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw test1coins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -258,8 +258,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW DOGECOINS VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TEST1COINS&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW TEST1COINS VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -285,8 +285,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw dogecoins stelen.</translation>
+        <source>Test1Coin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your test1coins from being stolen by malware infecting your computer.</source>
+        <translation>Test1Coin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw test1coins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -384,8 +384,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogecoin</source>
-        <translation>Laat informatie zien over Dogecoin</translation>
+        <source>Show information about Test1Coin</source>
+        <translation>Laat informatie zien over Test1Coin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a Test1Coin address</source>
         <translation>Verstuur munten naar een Dogecoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dogecoin</source>
-        <translation>Wijzig instellingen van Dogecoin</translation>
+        <source>Modify configuration options for Test1Coin</source>
+        <translation>Wijzig instellingen van Test1Coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -465,8 +465,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>Test1Coin</source>
+        <translation>Test1Coin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -490,8 +490,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dogecoin</source>
-        <translation>&amp;Over Dogecoin</translation>
+        <source>&amp;About Test1Coin</source>
+        <translation>&amp;Over Test1Coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -510,12 +510,12 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your Test1Coin addresses to prove you own them</source>
         <translation>Onderteken berichten met uw Dogecoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Test1Coin addresses</source>
         <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Dogecoinadressen</translation>
     </message>
     <message>
@@ -546,12 +546,12 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin client</translation>
+        <source>Test1Coin client</source>
+        <translation>Test1Coin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dogecoin network</source>
+        <source>%n active connection(s) to Test1Coin network</source>
         <translation><numerusform>%n actieve connectie naar Dogecoinnetwerk</numerusform><numerusform>%n actieve connecties naar Dogecoinnetwerk</numerusform></translation>
     </message>
     <message>
@@ -666,7 +666,7 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Test1Coin address or malformed URI parameters.</source>
         <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Dogecoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
@@ -681,8 +681,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Dogecoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. Test1Coin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. Test1Coin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -747,7 +747,7 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Test1Coin address.</source>
         <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Dogecoinadres</translation>
     </message>
     <message>
@@ -766,8 +766,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dogecoin-Qt</source>
-        <translation>Dogecoin-Qt</translation>
+        <source>Test1Coin-Qt</source>
+        <translation>Test1Coin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -829,13 +829,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogecoin after logging in to the system.</source>
-        <translation>Start Dogecoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start Test1Coin after logging in to the system.</source>
+        <translation>Start Test1Coin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogecoin on system login</source>
-        <translation>Start &amp;Dogecoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start Test1Coin on system login</source>
+        <translation>Start &amp;Test1Coin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Dogecoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the Test1Coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de Test1Coin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -864,8 +864,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Dogecoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the Test1Coin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het Test1Coin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -939,8 +939,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Dogecoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Test1Coin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Test1Coin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -954,7 +954,7 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
+        <source>Whether to show Test1Coin addresses in the transaction list or not.</source>
         <translation>Of Dogecoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
@@ -1006,8 +1006,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogecoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Dogecoin.</translation>
+        <source>This setting will take effect after restarting Test1Coin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van Test1Coin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1025,7 +1025,7 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Test1Coin network after a connection is established, but this process has not completed yet.</source>
         <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Dogecoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
@@ -1079,8 +1079,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Kan dogecoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start test1coin: click-to-pay handler</source>
+        <translation>Kan test1coin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1229,8 +1229,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogecoin-Qt help message to get a list with possible Dogecoin command-line options.</source>
-        <translation>Toon het DogecoinQt-hulpbericht voor een lijst met mogelijke Dogecoin commandoregel-opties.</translation>
+        <source>Show the Test1Coin-Qt help message to get a list with possible Test1Coin command-line options.</source>
+        <translation>Toon het DogecoinQt-hulpbericht voor een lijst met mogelijke Test1Coin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,13 +1249,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogecoin - Debug window</source>
-        <translation>Dogecoin-debugscherm</translation>
+        <source>Test1Coin - Debug window</source>
+        <translation>Test1Coin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Kern</translation>
+        <source>Test1Coin Core</source>
+        <translation>Test1Coin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1264,7 +1264,7 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Test1Coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Open het Dogecoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
@@ -1274,8 +1274,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Welkom bij de Dogecoin RPC-console.</translation>
+        <source>Welcome to the Test1Coin RPC console.</source>
+        <translation>Welkom bij de Test1Coin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1329,8 +1329,8 @@ Adres: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 DOGE</source>
-        <translation>123.456 DOGE</translation>
+        <source>123.456 TEST1</source>
+        <translation>123.456 TEST1</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1458,7 +1458,7 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a Test1Coin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>Vul een Dogecoinadres in (bijv. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
@@ -1523,7 +1523,7 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this Test1Coin address</source>
         <translation>Onderteken een bericht om te bewijzen dat u een bepaald Dogecoinadres bezit</translation>
     </message>
     <message>
@@ -1559,7 +1559,7 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Test1Coin address</source>
         <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Dogecoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
@@ -1575,7 +1575,7 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a Test1Coin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>Vul een Dogecoinadres in (bijv. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
@@ -1585,8 +1585,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogecoin signature</source>
-        <translation>Voer Dogecoin-handtekening in</translation>
+        <source>Enter Test1Coin signature</source>
+        <translation>Voer Test1Coin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1659,8 +1659,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dogecoin developers</source>
-        <translation>De Dogecoin-ontwikkelaars</translation>
+        <source>The Test1Coin developers</source>
+        <translation>De Test1Coin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2197,7 +2197,7 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Dogecoin version</source>
+        <source>Test1Coin version</source>
         <translation>Dogecoinversie</translation>
     </message>
     <message>
@@ -2207,8 +2207,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dogecoind</source>
-        <translation>Stuur commando naar -server of dogecoind</translation>
+        <source>Send command to -server or test1coind</source>
+        <translation>Stuur commando naar -server of test1coind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2227,14 +2227,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: dogecoin.conf)
+        <source>Specify configuration file (default: test1coin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: test1coin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: dogecoind.pid)
+        <source>Specify pid file (default: test1coind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: test1coind.pid)
 </translation>
     </message>
     <message>
@@ -2249,8 +2249,8 @@ Adres: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22556 or testnet: 44556)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 22556 of testnet: 44556)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 26004 or testnet: 44556)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 26004 of testnet: 44556)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2284,8 +2284,8 @@ Adres: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22555 or testnet: 44555)</source>
-        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 22555 of testnet: 44555)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 26003 or testnet: 44555)</source>
+        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 26003 of testnet: 44555)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2312,23 +2312,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=test1coinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Test1Coin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=dogecoinrpc
+rpcuser=test1coinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;Test1Coin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2342,8 +2342,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Dogecoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. Test1Coin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. Test1Coin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2387,8 +2387,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Dogecoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Test1Coin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Test1Coin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2637,8 +2637,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dogecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Dogecoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the Test1Coin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de Test1Coin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2827,13 +2827,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Dogecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Test1Coin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Test1Coin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Dogecoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Test1Coin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart Test1Coin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2892,8 +2892,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dogecoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Dogecoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. Test1Coin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. Test1Coin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

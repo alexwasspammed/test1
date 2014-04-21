@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Dogecoin
-Comment=Dogecoin P2P Cryptocurrency
-Comment[fr]=Dogecoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Dogecoin, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/dogecoin-qt %u
+Name=Test1Coin
+Comment=Test1Coin P2P Cryptocurrency
+Comment[fr]=Test1Coin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Test1Coin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/test1coin-qt %u
 Terminal=false
 Type=Application
-Icon=/usr/share/pixmaps/dogecoin128.png
-MimeType=x-scheme-handler/dogecoin;
+Icon=/usr/share/pixmaps/test1coin128.png
+MimeType=x-scheme-handler/test1coin;
 Categories=Office;

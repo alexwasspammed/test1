@@ -6,10 +6,10 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>dogecoin</string>
+			<string>test1coin</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>dogecoin</string>
+				<string>test1coin</string>
 			</array>
 		</dict>
 	</array>
@@ -20,18 +20,18 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>CFBundleIconFile</key>
-	<string>Dogecoin.icns</string>
+	<string>Test1Coin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© Dogecoin</string>
+	<string>© Test1Coin</string>
 	<key>CFBundleSignature</key>
-	<string>DOGE</string>
+	<string>TEST1</string>
 	<key>CFBundleExecutable</key>
-	<string>Dogecoin-Qt</string>
+	<string>Test1Coin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dogecoin.wallet-qt</string>
+	<string>com.test1coin.wallet-qt</string>
 	<key>CFBundleName</key>
-	<string>Dogecoin-Qt</string>
+	<string>Test1Coin-Qt</string>
 </dict>
 </plist>

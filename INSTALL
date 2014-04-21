@@ -1,9 +1,9 @@
-Building Dogecoin
+Building Test1Coin
 
-See doc/readme-qt.rst for instructions on building Dogecoin-Qt,
+See doc/readme-qt.rst for instructions on building Test1Coin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Test1Coin.
 
-See doc/build-*.txt for instructions on building dogecoind,
+See doc/build-*.txt for instructions on building test1coind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Test1Coin.
